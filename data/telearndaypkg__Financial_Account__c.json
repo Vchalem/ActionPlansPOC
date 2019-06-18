@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "telearndaypkg__Financial_Account__c",
+                "referenceId": "telearndaypkg__Financial_Account__cRef1"
+            },
+            "telearndaypkg__Account__c": "@AccountRef1",
+            "Name": "Chase Sapphire Reserve",
+            "telearndaypkg__Account_Number__c": "123456789",	
+            "telearndaypkg__Expiration_Month__c": "03",
+            "telearndaypkg__Expiration_Year__c": "2024",
+            "telearndaypkg__Current_Limit__c": 12000,
+            "telearndaypkg__Type__c": "Credit Card"
+        },
+        {
+            "attributes": {
+                "type": "telearndaypkg__Financial_Account__c",
+                "referenceId": "telearndaypkg__Financial_Account__cRef2"
+            },
+            "telearndaypkg__Account__c": "@AccountRef1",
+            "telearndaypkg__Account_Number__c": "987654321",
+            "Name": "Delta SkyMiles",
+            "telearndaypkg__Expiration_Month__c": "10",
+            "telearndaypkg__Expiration_Year__c": "2022",
+            "telearndaypkg__Current_Limit__c": 3000,
+            "telearndaypkg__Type__c": "Credit Card"
+        }
+    ]
+}

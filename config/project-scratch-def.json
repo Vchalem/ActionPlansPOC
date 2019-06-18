@@ -1,0 +1,10 @@
+{
+    "orgName": "vchalem Company",
+    "edition": "Developer",
+    "features": ["ActionPlans"],
+    "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}

@@ -1,0 +1,1117 @@
+[
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560269447011,
+            "changeTime": 1560892546057,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560269447011,
+            "changeTime": 1560892447877,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1560893192174,
+            "changeTime": 1560893192174,
+            "contentHash": "5c6d00d676e4ad13c5f2abe6a7d51136510bea31"
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560892413904,
+            "changeTime": 1560892447873,
+            "contentHash": "3419d6ae8ba04f666671d8b81cfe913943b625c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/applications/TE_Learning_Day.app-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/applications/TE_Learning_Day.app-meta.xml",
+            "isDirectory": false,
+            "size": 1082,
+            "modifiedTime": 1560893065254,
+            "changeTime": 1560893065254,
+            "contentHash": "d7ca4fbaa600845a64c013b12759c7b6652a3591",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560269447012,
+            "changeTime": 1560892447877,
+            "contentHash": "83bfecf6dcd64d32e03df25db63999204a92ca0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1560269447013,
+            "changeTime": 1560892447877,
+            "contentHash": "2d13224d498d053cfd85a7160d525583ae343525",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInput.cmp",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInput.cmp",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1560269447012,
+            "changeTime": 1560892447876,
+            "contentHash": "f8cbcb835ff41445850249f6314374275ab69a28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInput.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInput.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1560269447012,
+            "changeTime": 1560892447875,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInput.design",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInput.design",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1560269447013,
+            "changeTime": 1560892447875,
+            "contentHash": "35f72b0ae826e74125dc6a0b3e569ee96b9f7b41",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInputController.js",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/aura/RichTextInput/RichTextInputController.js",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1560269447013,
+            "changeTime": 1560892447876,
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1560269447015,
+            "changeTime": 1560892447840,
+            "contentHash": "667c790d466f7f3654c420ab19d1093aaccad91c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6751,
+            "modifiedTime": 1560269447014,
+            "changeTime": 1560892447839,
+            "contentHash": "7736d5606024c7cc7dd1869494011e132d29d9a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6751,
+            "modifiedTime": 1560269447014,
+            "changeTime": 1560892447838,
+            "contentHash": "7736d5606024c7cc7dd1869494011e132d29d9a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Account_Record_Page2.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Account_Record_Page2.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6751,
+            "modifiedTime": 1560269447014,
+            "changeTime": 1560892447839,
+            "contentHash": "104ac313944f1af3a1fbf9d5895074982088541e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Financial_Account_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/Financial_Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 4893,
+            "modifiedTime": 1560269447015,
+            "changeTime": 1560892447837,
+            "contentHash": "ff3e4d288701b8ef4af6904fe0bce65c9dac4295",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/TE_Learning_Day_Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/TE_Learning_Day_Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3848,
+            "modifiedTime": 1560893192180,
+            "changeTime": 1560893192180,
+            "contentHash": "b054fbf8b4410182f7ab4e8d419a9389456a23d8"
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/TE_Learning_Day_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/flexipages/TE_Learning_Day_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 510,
+            "modifiedTime": 1560269447015,
+            "changeTime": 1560892447840,
+            "contentHash": "f9bca7a3eb43dd7a45bb99ad36e0ffe6dd407aec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1560269447027,
+            "changeTime": 1560892447869,
+            "contentHash": "9392c4378f0a3fa7d4a0bfb82298847155899411",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1560269447016,
+            "changeTime": 1560892447861,
+            "contentHash": "000724b417040bfe1652fe6164be4045b1f31b93",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 3977,
+            "modifiedTime": 1560269447016,
+            "changeTime": 1560892447841,
+            "contentHash": "b795ef19d0829b2f08cb78c4ab21785ac7b31419",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/compactLayouts",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/compactLayouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560269447016,
+            "changeTime": 1560892447861,
+            "contentHash": "7389e738744abb4760a5ad3b6703923b3ec7d965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/compactLayouts/telearndaypkg__TE_Learning_Day_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/compactLayouts/telearndaypkg__TE_Learning_Day_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1560269447016,
+            "changeTime": 1560892447861,
+            "contentHash": "585c8843f106037f14eeffac570edef9551472e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 1056,
+            "modifiedTime": 1560269447026,
+            "changeTime": 1560892447860,
+            "contentHash": "22fef161f0d8b234b63a4cf549080f8c0d163d2e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1560269447017,
+            "changeTime": 1560892447851,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1560269447017,
+            "changeTime": 1560892447849,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1560269447017,
+            "changeTime": 1560892447857,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1560269447018,
+            "changeTime": 1560892447844,
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1560269447018,
+            "changeTime": 1560892447847,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1560269447018,
+            "changeTime": 1560892447856,
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1560269447018,
+            "changeTime": 1560892447846,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1560269447019,
+            "changeTime": 1560892447855,
+            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1560269447019,
+            "changeTime": 1560892447857,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1560269447019,
+            "changeTime": 1560892447850,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1560269447020,
+            "changeTime": 1560892447854,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1560269447020,
+            "changeTime": 1560892447860,
+            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1560269447020,
+            "changeTime": 1560892447843,
+            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1560269447021,
+            "changeTime": 1560892447846,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1560269447021,
+            "changeTime": 1560892447855,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1560269447022,
+            "changeTime": 1560892447849,
+            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1560269447022,
+            "changeTime": 1560892447859,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1560269447022,
+            "changeTime": 1560892447850,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1560269447022,
+            "changeTime": 1560892447842,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1560269447023,
+            "changeTime": 1560892447854,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1560269447023,
+            "changeTime": 1560892447852,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1560269447023,
+            "changeTime": 1560892447842,
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1560269447024,
+            "changeTime": 1560892447848,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1560269447024,
+            "changeTime": 1560892447858,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1560269447025,
+            "changeTime": 1560892447845,
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1560269447025,
+            "changeTime": 1560892447845,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1560269447025,
+            "changeTime": 1560892447852,
+            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1560269447025,
+            "changeTime": 1560892447859,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1560269447026,
+            "changeTime": 1560892447844,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1560269447026,
+            "changeTime": 1560892447853,
+            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/telearndaypkg__Credit_Rating__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/Account/fields/telearndaypkg__Credit_Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 427,
+            "modifiedTime": 1560269447026,
+            "changeTime": 1560892447847,
+            "contentHash": "0facdfa846899354300386cc3d21977076547a40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1560269447030,
+            "changeTime": 1560892447869,
+            "contentHash": "82ff7edd839b33c0fc66eeb64bf8561994600506",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1560269447029,
+            "changeTime": 1560892447869,
+            "contentHash": "bc3d935d51cf1801f2ee7358dabdf4044cb1fae2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Account_Number__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Account_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 461,
+            "modifiedTime": 1560269447027,
+            "changeTime": 1560892447864,
+            "contentHash": "383ba3458a6934ab5a8db0952d510bef1018f9f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Account__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Account__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 609,
+            "modifiedTime": 1560269447027,
+            "changeTime": 1560892447867,
+            "contentHash": "193f2261a8560e3af0fc1af5832bc788ea52bb0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Current_Limit__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Current_Limit__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1560269447028,
+            "changeTime": 1560892447865,
+            "contentHash": "369c9e188ea770f2b38551a5ba8ce095d4f9400d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1560269447028,
+            "changeTime": 1560892447866,
+            "contentHash": "b5ebbf339d1d9df40f41950da20b8c9e5f101310",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Expiration_Month__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Expiration_Month__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1560269447028,
+            "changeTime": 1560892447864,
+            "contentHash": "879428792959e9719098d83a6c2ac13a3d972841",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Expiration_Year__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Expiration_Year__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1560269447029,
+            "changeTime": 1560892447869,
+            "contentHash": "31e55604b9437248dcdbdd239cd80219d2dd9ede",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/fields/telearndaypkg__Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1568,
+            "modifiedTime": 1560269447029,
+            "changeTime": 1560892447867,
+            "contentHash": "5d0c5aed8bc3117c569ce733acaaf7917131e839",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/listViews",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560269447029,
+            "changeTime": 1560892447863,
+            "contentHash": "ca40dfd73e2f15610e6e653c82236b8f56d809c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/listViews/telearndaypkg__All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/listViews/telearndaypkg__All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1560269447030,
+            "changeTime": 1560892447863,
+            "contentHash": "65925a620531d202382cb8f1ba99c0d4dc6bd69f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/telearndaypkg__Financial_Account__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/objects/telearndaypkg__Financial_Account__c/telearndaypkg__Financial_Account__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2164,
+            "modifiedTime": 1560269447030,
+            "changeTime": 1560892447862,
+            "contentHash": "dd75b8555e25d46499a3ee001918b05742eb11cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1560269447030,
+            "changeTime": 1560892447874,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 25825,
+            "modifiedTime": 1560269447031,
+            "changeTime": 1560892447874,
+            "contentHash": "304dc477f2e8c5c4d61c00e4be27e1b5037282c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/standardValueSets",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/standardValueSets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1560269447032,
+            "changeTime": 1560892447872,
+            "contentHash": "d915f229e3ac5e039d822811872fc3d72ed33fe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/standardValueSets/CaseStatus.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/standardValueSets/CaseStatus.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1257,
+            "modifiedTime": 1560269447032,
+            "changeTime": 1560892447871,
+            "contentHash": "3c4a9d031ebc63b2f624515b3959a085821b9a78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/standardValueSets/CaseType.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/standardValueSets/CaseType.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1057,
+            "modifiedTime": 1560269447033,
+            "changeTime": 1560892447872,
+            "contentHash": "75fecd9188a1e3f9422ef7dbdb2c0911051d215f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC",
+        {
+            "sourcePath": "/Users/vchalem/ActionPlansPOC",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1560892619237,
+            "changeTime": 1560892619237,
+            "contentHash": "0c37e0d119dc824b63248324c0cc9c2d1793c118",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/layouts/Account-telearndaypkg__TE Learning Day Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/layouts/Account-telearndaypkg__TE Learning Day Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7588,
+            "modifiedTime": 1560893192176,
+            "changeTime": 1560893192176,
+            "contentHash": "d8a38197a91f6441fffa6b3f03560a2fd271a327"
+        }
+    ],
+    [
+        "/Users/vchalem/ActionPlansPOC/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/ActionPlansPOC/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1560893192176,
+            "changeTime": 1560893192176,
+            "contentHash": "68741cdbc055f3efc0714afbc06956f4b4cdac9f"
+        }
+    ]
+]

@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes,lightning:availableForFlowScreens">
+    <aura:attribute name="myComments" type="String"/>
+    <aura:attribute name="theLabel" type="String"/>
+    <lightning:inputRichText value="{!v.myComments}" label="{!v.theLabel}" labelVisible="true"/>
+</aura:component>

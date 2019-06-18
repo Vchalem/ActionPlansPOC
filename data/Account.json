@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Appy Cat",
+            "BillingStreet": "1 Market St",
+            "BillingCity": "San Fransisco",
+            "BillingState": "CA",
+            "BillingPostalCode": "94105",
+            "BillingCountry": "United States"
+        }
+    ]
+}
